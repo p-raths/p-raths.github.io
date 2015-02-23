@@ -5,7 +5,7 @@
 url: http://pa.trick-raths.ch
 title: Patrick Raths
 email: p@trick-raths.ch
-description: > "Beschreibung"
+description: > # "Beschreibung"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
